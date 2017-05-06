@@ -1,5 +1,16 @@
 # Webpack study notes
 
+This example code I have done:
+
+* webpack & HTML generator. npm start will run the html server. HTML content rendered from handlebar template.
+
+* split bundle.js to vendor file (bundle.vendor.js) and file from custom code (bundle.js).
+
+* the js performs delayed loading of the HTML.
+
+
+
+
 
 ## Common commands
 
