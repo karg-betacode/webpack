@@ -33,3 +33,14 @@ Install dependencies specified in package.json
 ```
 
 This creates package.json
+
+
+
+## What is next?
+
+1. Adding hash or chunkhash to bundle.vendor.js  (vendor files for browser caching). Read more [here from Andrey Okonetchnikov](https://medium.com/@okonetchnikov/long-term-caching-of-static-assets-with-webpack-1ecb139adb95)
+
+
+2. Modify rails to support webpack. Read more [here from Clark Dave](http://clarkdave.net/2015/01/how-to-use-webpack-with-rails/)
+
+2.1  Alternatively look into [webpacker gem](https://github.com/rails/webpacker)
