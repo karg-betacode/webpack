@@ -1,6 +1,5 @@
 # Webpack study notes
 
---------------------------
 
 ## Common commands
 
@@ -11,6 +10,7 @@
 
 
 Current build process is handled by webpack - look at package.json -> build field.
+
 Output files is determine by webpac.config.js -> entry field
 
 --------------------------
@@ -21,6 +21,8 @@ Output files is determine by webpac.config.js -> entry field
 
 Install dependencies specified in package.json
 
+
+--------------------------
 
 3. Initialize npm
 
